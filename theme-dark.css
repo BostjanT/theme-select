@@ -1,0 +1,8 @@
+body {
+  background: #02070a;
+  color: #92c9e8;
+}
+
+.container::before {
+  background-color: #175e87;
+}

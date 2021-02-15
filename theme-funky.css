@@ -1,0 +1,12 @@
+body {
+  background: #08bdbd;
+  color: #750e6d;
+}
+
+.container::before {
+  background-color: #f21b3f;
+}
+
+select {
+  color: #750e6d;
+}
